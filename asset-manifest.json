@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mileage-control/static/css/main.7acaea2f.css",
-    "main.js": "/mileage-control/static/js/main.d4356280.js",
+    "main.js": "/mileage-control/static/js/main.84344544.js",
     "index.html": "/mileage-control/index.html",
     "main.7acaea2f.css.map": "/mileage-control/static/css/main.7acaea2f.css.map",
-    "main.d4356280.js.map": "/mileage-control/static/js/main.d4356280.js.map"
+    "main.84344544.js.map": "/mileage-control/static/js/main.84344544.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.d4356280.js"
+    "static/js/main.84344544.js"
   ]
 }
