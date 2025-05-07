@@ -1,8 +1,8 @@
 {
-  "name": "math-learning-platform",
+  "name": "mileage-control",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ectionboy.github.io/math-learning-platform/",
+  "homepage": "https://github.com/ectionboy/mileage-control/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
