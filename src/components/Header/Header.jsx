@@ -11,11 +11,11 @@ const Header = () => {
           </li>
 
           <li>
-            <Link to="/subject">Предмети</Link>
+            <Link to="/mileage">Кілометраж</Link>
           </li>
           
           <li>
-            <Link to="/about">Про нас</Link>
+            <Link to="/about">Про додаток</Link>
           </li>
         </ul>
       </nav>
