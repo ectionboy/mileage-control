@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/math-learning-platform/static/css/main.7acaea2f.css",
+    "main.js": "/math-learning-platform/static/js/main.3b8b94c3.js",
+    "index.html": "/math-learning-platform/index.html",
+    "main.7acaea2f.css.map": "/math-learning-platform/static/css/main.7acaea2f.css.map",
+    "main.3b8b94c3.js.map": "/math-learning-platform/static/js/main.3b8b94c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.3b8b94c3.js"
+  ]
+}
