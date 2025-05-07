@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ectionboy/mileage-control/static/css/main.7acaea2f.css",
-    "main.js": "/ectionboy/mileage-control/static/js/main.3b8b94c3.js",
-    "index.html": "/ectionboy/mileage-control/index.html",
-    "main.7acaea2f.css.map": "/ectionboy/mileage-control/static/css/main.7acaea2f.css.map",
-    "main.3b8b94c3.js.map": "/ectionboy/mileage-control/static/js/main.3b8b94c3.js.map"
+    "main.css": "/mileage-control/static/css/main.7acaea2f.css",
+    "main.js": "/mileage-control/static/js/main.f6d79a42.js",
+    "index.html": "/mileage-control/index.html",
+    "main.7acaea2f.css.map": "/mileage-control/static/css/main.7acaea2f.css.map",
+    "main.f6d79a42.js.map": "/mileage-control/static/js/main.f6d79a42.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.3b8b94c3.js"
+    "static/js/main.f6d79a42.js"
   ]
 }
