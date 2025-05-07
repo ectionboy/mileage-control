@@ -1,16 +1,17 @@
+import { Route, Routes } from 'react-router-dom';
+import Home from './Pages/Home';
+import About from './Pages/About';
+import Subject from './Pages/Subject';
+import NotFound from './NotFound/NotFound';
+import Layout from './Layout/Layout';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      Math learning platform
-    </div>
+    <Routes>
+      <Route path="/" element={<Layout><Home /></Layout>} />
+      <Route path="/subject" element={<Layout><Subject /></Layout>} />
+      <Route path="/about" element={<Layout><About /></Layout>} />
+      <Route path="*" element={<NotFound />} />
+    </Routes>
   );
 };
